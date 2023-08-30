@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Copperplate";
+    src: url(fonts/Copperplate\ Gothic\ Bold\ Regular.ttf);
+}
+header {
+    background-color: #5a6e77;
+    text-align: center;
+    
+}
+body {
+    font-family: 'Copperplate';
+    background-color: #800000;
+    color: #ddd;
+}
+.tm {
+    vertical-align: super;
+    font-size: .8em;
+}
